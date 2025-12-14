@@ -1,0 +1,7 @@
+{
+  "name": "NutriPlate AI",
+  "description": "Analyze family meal nutrition via photos or text, calculating Consumption Units (CU) and comparing against ICMR standards.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
